@@ -13,6 +13,7 @@ public class ArrowController : MonoBehaviour
             Rigidbody projectileRigidbody = GetComponent<Rigidbody>();
             if (projectileRigidbody != null)
             {
+                Debug.Log(collision.gameObject.name,collision.gameObject);
                 Destroy(projectileRigidbody);
                 transform.SetParent(collision.transform);
             }

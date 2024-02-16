@@ -514,9 +514,17 @@ PrefabInstance:
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2689224512098616475, guid: 852be9be072ccca4385c57dabc56f302, type: 3}
-      propertyPath: arrowPrefab
+      propertyPath: cloth
       value: 
-      objectReference: {fileID: 8877486625585532554, guid: b23eed9a5fe7dca47800f08fe054310a, type: 3}
+      objectReference: {fileID: 215143896}
+    - target: {fileID: 2689224512098616475, guid: 852be9be072ccca4385c57dabc56f302, type: 3}
+      propertyPath: shootSpeed
+      value: 5000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5099559736748603609, guid: 852be9be072ccca4385c57dabc56f302, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5323825320846316458, guid: 852be9be072ccca4385c57dabc56f302, type: 3}
       propertyPath: walkSpeed
       value: 20
