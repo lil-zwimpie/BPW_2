@@ -6,15 +6,10 @@ public class Shooter : MonoBehaviour
 {
     [SerializeField]
     public GameObject arrowPrefab;
-    float shootSpeed = 100f;
+    float shootSpeed = 200f;
     public Transform spawnpointArrow;
     public Camera playerCamera;
     private ArrowController arrowController;
-
-    void Start()
-    {
-   
-    }
 
     void Update()
     {
