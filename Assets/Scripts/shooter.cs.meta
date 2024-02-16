@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47d15b0bf96b2ca43a20cd3d0994bc14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrowShoot: {fileID: 8439558701766516437, guid: 55fed51408657344787e6a5bfe33d1db, type: 3}
+  - spawnpointArrow: {instanceID: 0}
+  - PlayerCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

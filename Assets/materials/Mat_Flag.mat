@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Mat_Flag
-  m_Shader: {fileID: 4800000, guid: 63a90426d42b698448966291201d6716, type: 3}
+  m_Shader: {fileID: 4800000, guid: 2914c939860ab3b40b0972bf8aedb87f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
