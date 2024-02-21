@@ -104,9 +104,9 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 5
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 8321685774571456786, guid: b2a1f3167bc006847a17f825e6892c38, type: 3}
 --- !u!114 &5984047280483696036
@@ -165,9 +165,9 @@ CapsuleCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.023489261
-  m_Height: 0.44614258
+  m_Height: 0.4054657
   m_Direction: 0
-  m_Center: {x: 0.0094390875, y: -0.00037149043, z: -0.0004118681}
+  m_Center: {x: 0.029777527, y: -0.00037149043, z: -0.0004118681}
