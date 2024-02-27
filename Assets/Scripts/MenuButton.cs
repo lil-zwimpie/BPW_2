@@ -5,10 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class MenuButton : MonoBehaviour
 {
-    [SerializeField]
-    void OnTriggerEnter(Collider other)
+        void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
      
