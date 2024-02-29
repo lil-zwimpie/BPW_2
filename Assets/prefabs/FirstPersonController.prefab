@@ -298,7 +298,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 5f8d0b0828d4b8649a422ddd4c1c0d84, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -439,8 +439,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrowPrefab: {fileID: 3552348797496512929, guid: 26c47d0a044208a4cb6ec1ad5dc93a09, type: 3}
+  shootSpeed: 200
   spawnpointArrow: {fileID: 6739140056774607528}
   playerCamera: {fileID: 4380271694026465807}
+  cloth: {fileID: 0}
 --- !u!1 &7166201526516330282
 GameObject:
   m_ObjectHideFlags: 0
