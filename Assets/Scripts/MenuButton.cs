@@ -7,7 +7,7 @@ public class MenuButton : MonoBehaviour
 {
         void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
      
