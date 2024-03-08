@@ -173,7 +173,7 @@ PrefabInstance:
     - target: {fileID: 987270589834889831, guid: 20ed6026d7f7b1749b6eb47ae57e8019, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 56c04204fa9485142a5b3d7e7d7e8397, type: 2}
+      objectReference: {fileID: 2100000, guid: 0f5f36fc69f307540a80787b66c60231, type: 2}
     - target: {fileID: 8279397560615281318, guid: 20ed6026d7f7b1749b6eb47ae57e8019, type: 3}
       propertyPath: m_Name
       value: BPW 2 test 2 double sided (2)

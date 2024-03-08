@@ -597,6 +597,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6979483149485078583}
     m_Modifications:
+    - target: {fileID: 633699074571451208, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0f5f36fc69f307540a80787b66c60231, type: 2}
     - target: {fileID: 8636672442246949049, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
       propertyPath: m_Name
       value: FlagDamaged

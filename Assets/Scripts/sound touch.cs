@@ -11,10 +11,7 @@ public class soundtouch : MonoBehaviour
     {
         if (collision.gameObject.name == "arrow_Shoot(Clone)")
         {
-            if(!audioSource.isPlaying)
-            {
-                audioSource.Play();
-            }
+          
             //score omhoog doen
             scoreManager.ScoreCount += 10;
         }

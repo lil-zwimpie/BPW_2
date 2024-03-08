@@ -394,6 +394,7 @@ Cloth:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
   m_SphereColliders: []
   m_SelfCollisionDistance: 0.2
   m_SelfCollisionStiffness: 0.3
