@@ -123,7 +123,7 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _Wind_Intensity: 0.7
+    - _Wind_Intensity: 0.5
     - _Wind_Scale: 0.5
     - _Wind_Speed: 0.5
     - _WorkflowMode: 1
@@ -132,15 +132,15 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BottomColor: {r: 0.07491067, g: 0.5283019, b: 0.0033225878, a: 0}
+    - _BottomColor: {r: 0.049130592, g: 0.7830189, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FarColor: {r: 0.17610055, g: 1, b: 0.28953606, a: 0}
-    - _NearColor: {r: 0.27580902, g: 0.8773585, b: 0.17933422, a: 0}
+    - _FarColor: {r: 0, g: 0.8301887, b: 0.114508845, a: 0}
+    - _NearColor: {r: 0, g: 0.6886792, b: 0.09992596, a: 0}
     - _Near_Far_Range: {r: 10, g: 25, b: 0, a: 0}
-    - _Shadow_Color: {r: 0.32236737, g: 0.9339623, b: 0.18209319, a: 0}
+    - _Shadow_Color: {r: 0.1444463, g: 0.5754717, b: 0.04705111, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _Wind_Color: {r: 0.057849724, g: 0.7075472, b: 0.069926806, a: 0}
+    - _Wind_Color: {r: 0, g: 0.6886792, b: 0.013503472, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3150061633322290609
 MonoBehaviour:

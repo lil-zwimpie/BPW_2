@@ -18,7 +18,7 @@ public class CutsceneTrigger : MonoBehaviour
 
     IEnumerator FinishCutscene()
     {
-        yield return new WaitForSeconds(5);
+        yield return new WaitForSeconds(10);
         FirstPersonController.SetActive(true);
         MainCamera.SetActive(false);
     }

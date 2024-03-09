@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MenuButton : MonoBehaviour
 {
-        void OnTriggerEnter(Collider )
+    void OnTriggerEnter(Collider other)
     {
         SceneManager.LoadScene(2);
     }
