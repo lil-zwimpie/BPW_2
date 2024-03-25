@@ -54,7 +54,11 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d488d46d4741fc04cadde16810408bd7, type: 2}
     - target: {fileID: 919132149155446097, guid: 93ee90fa90299124fb2f27c1230dfdc1, type: 3}
       propertyPath: m_Name
-      value: tree2_big 1
+      value: tree2_big Corrupt
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 93ee90fa90299124fb2f27c1230dfdc1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

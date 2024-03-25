@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7732188525040787402
 Transform:
@@ -124,7 +124,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5145934100567093501
 Transform:
@@ -228,7 +228,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5356454082101696739
 Transform:
@@ -268,7 +268,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8207595893393556502
 Transform:
@@ -414,6 +414,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: flag_pole 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5344313723837035453, guid: 92b3667ca1f3c7d4a87e7cc7fcbf21d5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -492,9 +496,29 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 66505baea99f93846a6ced4f77c945a1, type: 2}
+    - target: {fileID: -6217452726054316251, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4700127534695410439, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -143837617942210189, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 487739210399070173, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
       propertyPath: m_Name
       value: tower 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1879428697330835280, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -691,6 +715,10 @@ PrefabInstance:
     - target: {fileID: 8279397560615281318, guid: 20ed6026d7f7b1749b6eb47ae57e8019, type: 3}
       propertyPath: m_Name
       value: BPW 2 test 2 double sided (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279397560615281318, guid: 20ed6026d7f7b1749b6eb47ae57e8019, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8767809852962895900, guid: 20ed6026d7f7b1749b6eb47ae57e8019, type: 3}
       propertyPath: m_LocalPosition.x

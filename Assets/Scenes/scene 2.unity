@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 112000000, guid: d2a573c225b03ab4facb57a19d787af0, type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 3ea8492606776b741bccb3248a3a7e2d, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 6724efdcdc8462a45987e0281cec7940, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -302,6 +302,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4045729649474467891, guid: 169f87323c1b2c841a9c5cbcd09494c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7cdb0321f7b4adb46ba23c87a4935cdc, type: 2}
     - target: {fileID: 5251725978578641050, guid: 169f87323c1b2c841a9c5cbcd09494c8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -310,6 +314,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tower
       objectReference: {fileID: 0}
+    - target: {fileID: 8206347585586224178, guid: 169f87323c1b2c841a9c5cbcd09494c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7cdb0321f7b4adb46ba23c87a4935cdc, type: 2}
     - target: {fileID: 8792582161728152410, guid: 169f87323c1b2c841a9c5cbcd09494c8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 

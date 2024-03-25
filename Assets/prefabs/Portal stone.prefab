@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6104123983143037397
 Transform:
@@ -768,6 +768,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5340364149920332392, guid: 9cb5907b1a0026741b5857930a69886e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6179249279773527155, guid: 9cb5907b1a0026741b5857930a69886e, type: 3}
       propertyPath: m_LocalScale.x
       value: 693.18
@@ -823,6 +827,10 @@ PrefabInstance:
     - target: {fileID: 6812480413295777481, guid: 9cb5907b1a0026741b5857930a69886e, type: 3}
       propertyPath: m_Name
       value: portal (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812480413295777481, guid: 9cb5907b1a0026741b5857930a69886e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

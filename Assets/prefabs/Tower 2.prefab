@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2606873412601985616
 Transform:
@@ -121,7 +121,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6979483149485078583
 Transform:
@@ -160,7 +160,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6295374164478570815
 Transform:
@@ -267,7 +267,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &363371585221859730
 Transform:
@@ -425,9 +425,29 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 9c71d3ed1d483544493fd54a62a3767c, type: 2}
+    - target: {fileID: -6217452726054316251, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -4700127534695410439, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -143837617942210189, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 487739210399070173, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
       propertyPath: m_Name
       value: tower 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bda4c09a5cf377b4787f298713eefd66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -601,9 +621,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 0f5f36fc69f307540a80787b66c60231, type: 2}
+    - target: {fileID: 998598918037688493, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967561454698271537, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8636672442246949049, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
       propertyPath: m_Name
       value: FlagDamaged
+      objectReference: {fileID: 0}
+    - target: {fileID: 8636672442246949049, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8703982740516500883, guid: b51d845ffde31984c8a021f4cfcd1280, type: 3}
       propertyPath: m_LocalPosition.x
